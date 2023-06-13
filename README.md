@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Mahesh Gujar</h1>
+<h1 align="center">Hi 👋, I'm Aakash Gujar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 - 🌱 I’m currently learning **Web Development**

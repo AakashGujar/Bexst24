@@ -6,4 +6,4 @@
 - 📫 Reach me at aakashgujar2001@gmail.com
 
 🌐 Connect with me:
-[Gmail](mailto:aakashgujar2001@gmail.com) | [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/aakash-gujar/) | [Instagram](https://instagram.com/bexst24)
+ [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/aakash-gujar/) | [Instagram](https://instagram.com/bexst24)

@@ -15,11 +15,7 @@ const whoAmI = {
 
   getCity: function() {
     return 'Mumbai, India';
-  },
-
-  Ambitions: () => {
-    BecomeWebDeveloper();
-    }
+    },
   };
 
   const getSocialLinks = () => {

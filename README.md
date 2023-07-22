@@ -1,9 +1,30 @@
+```JS
 
-- 👋 Hi there, I'm Aakash Gujar.
-- 👀 I'm passionate about developing interesting web applications.
-- 🌱 Currently building Full Stack Web Development projects.
-- 💞️ Looking to collaborate on innovative projects.
-- 📫 Reach me at aakashgujar2001@gmail.com
+const whoAmI = {
 
-🌐 Connect with me:
- [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/aakash-gujar/) | [Instagram](https://instagram.com/bexst24)
+  user: 'Aakash Gujar',
+  current_edu: 'Recently graduated BE-IT with 8.70 CPGA',
+  currently_learning: 'React',
+  specialization_in: 'Web Dev',
+  hobbies: [
+                'Music',
+                'Chilling',
+                'Anime',
+                'Gaming'
+           ],
+
+  getCity: function() {
+    return 'Mumbai, India';
+  },
+
+  Ambitions: () => {
+    BecomeWebDeveloper();
+    FinishMyProjects();
+  }
+
+};
+
+```
+
+
+

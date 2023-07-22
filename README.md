@@ -19,12 +19,22 @@ const whoAmI = {
 
   Ambitions: () => {
     BecomeWebDeveloper();
-    FinishMyProjects();
-  }
+    }
+  };
 
+  const getSocialLinks = () => {
+  return {
+    instagram: 'https://www.instagram.com/bexst24/',
+    github: 'https://github.com/Bexst24',
+    linkedin: 'https://www.linkedin.com/in/aakash-gujar/'
+  };
 };
 
+const reachMeOut = getSocialLinks();
+
 ```
+
+
 
 
 
